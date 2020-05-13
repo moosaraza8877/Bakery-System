@@ -1,0 +1,25 @@
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\bin\Debug\BakeryOrderSystem.exe.config
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\bin\Debug\BakeryOrderSystem.exe
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\bin\Debug\BakeryOrderSystem.pdb
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.exe
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.pdb
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Form2.resources
+C:\Users\Moosa Raza\Documents\Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Form3.resources
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\bin\Debug\BakeryOrderSystem.exe.config
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\bin\Debug\BakeryOrderSystem.exe
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\bin\Debug\BakeryOrderSystem.pdb
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Form2.resources
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Form3.resources
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.exe
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.pdb
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\BakeryOrderSystem\BakeryOrderSystem\obj\Debug\BakeryOrderSystem.Form4.resources
